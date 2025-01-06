@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Image Alt](https://github.com/Observjji/cibersecurity-desafio-phishing/blob/796320e32f968ece288a6d05b031266eb4aa1b96/Phishing%20para%20captura%20de%20senhas%20do%20Facebook%201.png?raw=true)
+![Image Alt](https://github.com/Observjji/cibersecurity-desafio-phishing/blob/826367f696ed754f1873e4258883764af5388555/capturefortflag.png)?raw=true)
